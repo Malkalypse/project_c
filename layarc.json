@@ -1,5 +1,5 @@
 {
-  "dir": "c",
+  "dir": "folder_c",
   "dependencies": [
     {
       "source": "https://github.com/Malkalypse/project_b.git"
