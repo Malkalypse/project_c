@@ -2,10 +2,7 @@
   "dir": "c",
   "dependencies": [
     {
-      "source": "https://github.com/Malkalypse/project_b.git",
-      "version": {
-        "preferred": "0ec1170f62f870abdca8a60cc8680dc98cef19d7"
-      }
+      "source": "https://github.com/Malkalypse/project_b.git"
     }
   ]
 }
