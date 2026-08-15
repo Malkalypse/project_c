@@ -1,5 +1,5 @@
 {
-    "layarc_version": "0.2.2",
+    "dependable_version": "0.2.2",
     "dir": "folder_c",
     "dependencies": [
         {
